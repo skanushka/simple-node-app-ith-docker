@@ -1,0 +1,15 @@
+{
+  "name": "simple-node-app-with-docker",
+  "version": "1.0.0",
+  "description": "Dockerizing nodejs application",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Supun Kanushka",
+  "license": "",
+  "dependencies": {
+    "express": "^4.16.4",
+    "nodemon": "^1.19.0"
+  }
+}
